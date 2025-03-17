@@ -127,7 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="stuct.cpp" />
+    <ClCompile Include="stArray.c" />
+    <ClCompile Include="stArray_practice.c" />
+    <ClCompile Include="stpointer.c" />
+    <ClCompile Include="struct2.c" />
+    <ClCompile Include="struct3.c" />
+    <ClCompile Include="struct4.c" />
+    <ClCompile Include="struct5.c" />
+    <ClCompile Include="struct6.c" />
+    <ClCompile Include="stuct.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

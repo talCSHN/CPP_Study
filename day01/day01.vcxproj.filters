@@ -15,7 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stuct.cpp">
+    <ClCompile Include="stuct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stpointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stArray_practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
