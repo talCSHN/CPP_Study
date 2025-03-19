@@ -130,9 +130,15 @@
     <ClCompile Include="class.cpp" />
     <ClCompile Include="class2.cpp" />
     <ClCompile Include="class3.cpp" />
+    <ClCompile Include="Human.cpp" />
+    <ClCompile Include="init.cpp" />
+    <ClCompile Include="init2.cpp" />
+    <ClCompile Include="init3.cpp" />
+    <ClCompile Include="init4.cpp" />
     <ClCompile Include="MyClass.cpp" />
     <ClCompile Include="MyClass2.cpp" />
     <ClCompile Include="MyClass3.cpp" />
+    <ClCompile Include="문자열처리하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
