@@ -127,6 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="static_cast.cpp" />
+    <ClCompile Include="static_cast2.cpp" />
+    <ClCompile Include="virtual3.cpp" />
+    <ClCompile Include="virtuial2.cpp" />
     <ClCompile Include="inheritance.cpp" />
     <ClCompile Include="inheritance2.cpp" />
     <ClCompile Include="inheritance3.cpp" />
@@ -135,6 +139,9 @@
     <ClCompile Include="objectPointer2.cpp" />
     <ClCompile Include="objectPointer3.cpp" />
     <ClCompile Include="objectPointer4.cpp" />
+    <ClCompile Include="objectPointer5.cpp" />
+    <ClCompile Include="objectPointer6.cpp" />
+    <ClCompile Include="virtual.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
