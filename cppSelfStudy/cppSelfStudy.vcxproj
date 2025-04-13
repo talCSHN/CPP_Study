@@ -127,8 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="callByVorR.cpp" />
+    <ClCompile Include="heap.cpp" />
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="namespace.cpp" />
+    <ClCompile Include="reference.cpp" />
+    <ClCompile Include="returnRef.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
