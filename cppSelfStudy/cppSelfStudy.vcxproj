@@ -132,8 +132,11 @@
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="namespace.cpp" />
     <ClCompile Include="reference.cpp" />
+    <ClCompile Include="referenceVirtual.cpp" />
     <ClCompile Include="returnRef.cpp" />
     <ClCompile Include="swap.cpp" />
+    <ClCompile Include="virtual1.cpp" />
+    <ClCompile Include="virtual2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
