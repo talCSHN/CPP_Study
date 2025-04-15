@@ -128,13 +128,23 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="callByVorR.cpp" />
+    <ClCompile Include="copy.cpp" />
+    <ClCompile Include="downcasting.cpp" />
     <ClCompile Include="heap.cpp" />
     <ClCompile Include="inline.cpp" />
+    <ClCompile Include="move.cpp" />
+    <ClCompile Include="moveConstructor.cpp" />
     <ClCompile Include="namespace.cpp" />
+    <ClCompile Include="objPointer.cpp" />
+    <ClCompile Include="objPointer2.cpp" />
+    <ClCompile Include="ref.cpp" />
     <ClCompile Include="reference.cpp" />
     <ClCompile Include="referenceVirtual.cpp" />
     <ClCompile Include="returnRef.cpp" />
+    <ClCompile Include="shared_ptr.cpp" />
     <ClCompile Include="swap.cpp" />
+    <ClCompile Include="unique_ptr.cpp" />
+    <ClCompile Include="upcasting.cpp" />
     <ClCompile Include="virtual1.cpp" />
     <ClCompile Include="virtual2.cpp" />
   </ItemGroup>
