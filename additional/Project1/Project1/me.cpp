@@ -22,9 +22,9 @@ int main()
 		{
 			unique_lock<mutex> sexLock(sexMutex);
 			tasks.push(task++);
-			cout << "스레드임 -> " << task << endl;
 			//lock_guard<mutex> sexLock2(sexMutex); // 재귀 락 호출로 인한 데드락 발생
 			sexLock.unlock();
+			cout << "스레드임 -> " << task << endl;
 		}
 		});
 
